@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """food-picture-01 entrypoint: copy entry.png to /output/entry.png.
 
-Tonkotsu ramen noodle pull — glossy noodles lifted with chopsticks,
-molten egg yolk dripping, charred chashu, steam, dark table.
-Pure stdlib. Verifies the output is a valid image within limits.
+Wood-fired pepperoni pizza — a slice lifted high, long mozzarella
+cheese pull stretching to the pie, crispy pepperoni cups, fresh basil,
+steam rising, dark rustic table. Pure stdlib. Verifies the output is
+a valid image within limits.
 """
 import os
 import shutil
